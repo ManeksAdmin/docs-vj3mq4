@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-3m9fkv.absolutebeachview.co.nz/sitemap.xml
